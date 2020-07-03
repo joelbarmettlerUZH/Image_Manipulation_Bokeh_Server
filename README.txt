@@ -21,3 +21,5 @@ I downscaled the little image to safe processor power and decrease processing ti
 I used bokeh, numpy, PIL, random and threading. As an IDE, I used PyCharm on Windows 10, tested out on Mac OSX. 
 
 Photo: https://www.pexels.com/photo/adventure-alps-climb-clouds-267104/
+
+Hire us: [Software Entwickler in Zürich](https://polygon-software.ch)!
